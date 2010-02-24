@@ -1,0 +1,6 @@
+[submodule "couchdbx-core"]
+	path = couchdbx-core
+	url = git@github.com:lstoll/couchdbx-core.git
+[submodule "couchdbx-app"]
+	path = couchdbx-app
+	url = git@github.com:lstoll/couchdbx-app.git
